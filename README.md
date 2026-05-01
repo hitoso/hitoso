@@ -9,7 +9,7 @@
 - **Языки**: c++ и c чутка
 
 ## 📫 Как со мной связаться
-- GitHub: [@lawl-yappy](https://github.com/mssmteam1234321-cyber)
+- GitHub: [@hitoso](https://github.com/hitoso)
 - discord :wxr1s
 
 ---
