@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Привет! Я hitoso
 
-<!--
-**hitoso/hitoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 О мне
+прикольный пацик я крутой 
 
-Here are some ideas to get you started:
+## 💼 Чем я занимаюсь
+- 🎯 какой то фигней учу c++ по тихонечьку по маленьчку
+## 🛠️ Используемые технологии
+- **Языки**: c++ и c чутка
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Как со мной связаться
+- GitHub: [@lawl-yappy](https://github.com/mssmteam1234321-cyber)
+- discord :wxr1s
+
+---
+
+*"я не умею писать я крутой"* 💻
