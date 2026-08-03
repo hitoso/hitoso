@@ -148,15 +148,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-Not once in my life have I done something productive.
+\
